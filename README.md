@@ -7,7 +7,8 @@ application up and running.
 [Link](https://gentle-sierra-34272.herokuapp.com/)
 
 ### Launching
-``` bundle install
+    ```
+    bundle install
     rails server
     localhost:3000
     ```

@@ -8,7 +8,8 @@ application up and running.
 
 ### Launching
     ```
-    bundle install
+    yarn install
+    rake db:create
     rails server
     localhost:3000
     ```
